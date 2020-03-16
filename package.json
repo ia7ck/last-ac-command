@@ -1,0 +1,16 @@
+{
+  "name": "recent-ac-command",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ia7ck/recent-ac-command",
+  "author": "ia7ck <23146842+ia7ck@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.4.0",
+    "@google-cloud/pubsub": "^1.6.0",
+    "dayjs": "^1.8.21",
+    "node-fetch": "^2.6.0",
+    "qs": "^6.9.1",
+    "timeago.js": "^4.0.2"
+  }
+}
